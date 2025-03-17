@@ -1,6 +1,6 @@
 ##  Hi, I'm Angela! 👋
 
-<🚀 **Front-end Developer | JavaScript | ReactJS**  
+🚀 **Front-end Developer | JavaScript | ReactJS**  
 💡 Passionate about building modern web applications and constantly improving my skills.  
 
 ## 🛠️ Tech Stack
